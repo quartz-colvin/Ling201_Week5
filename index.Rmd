@@ -1,0 +1,132 @@
+---
+title: "Week 5: Syntax"
+subtitle: "Recitation for LING 201:02"
+author: "Quartz Colvin (they/them)"
+institute: "Rutgers University"
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    css: ["rutgers", "rutgers-fonts"]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      bibliography:  bibliography.bib
+    keep_tex: true
+header-includes:
+- \usepackage{qtree}
+- \newenvironment{dummy}{}{}
+documentclass: ../includes/tex
+---
+
+class: middle, center
+
+# Syntax trees!
+
+---
+
+# PSR rules
+
+**Tips:**
+
+- pay attention to what modifies what! if X modifies Y, X must be a child of the same *parent* as Y (X and Y are *sisters*)
+
+--
+
+TP → NP (T) VP
+
+NP → (D) (AdjP+) N (PP+)
+
+NP → N
+
+PP → P NP
+
+VP → (AdvP+) V (NP) (AdvP+) (PP+) (AdvP+)
+
+AdjP → (AdvP) Adj
+
+AdvP → (AdvP) Adv
+
+---
+
+class: middle, center
+
+# Practice: phrases
+
+---
+
+# Phrases practice
+
+Draw mini-trees for the phrases in red in the following sentences.
+
+--
+
+1. I ate **an apple.** 
+
+2. Don't stare at **the bright sun.**
+
+3. John went **into the building.**
+
+4. They're like **peas in a pod.**
+
+5. The bakery sells **wonderfully fresh bread.**
+
+6. I like to drive **really slowly.**
+
+7. I threw a ball to **the dog with the collar in the park.**
+
+8. The mechanic helped **the man in the car with the flat tire.**
+
+---
+
+class: middle, center
+
+# Practice: sentences
+
+---
+
+# Practice: sentences
+
+Draw trees for the following sentences. 
+
+--
+
+1. The robin caught a worm.
+
+2. The mockingbird was singing.
+
+3. The sparrow on the windowsill chirped loudly.
+
+4. The osprey brought its hungry chicks a fish.
+
+5. The large owl lives in a nest in the barn.
+
+6. The duck quickly led her ducklings across the street.
+
+---
+
+# Practice: complex sentences (if time!)
+
+Identify the dependent clause and complementizer (if any) in each of these sentences, and determine whether the CP is acting as an NP, AdvP, or AdjP, and whether it is being inserted into an NP or a VP.
+
+--
+
+1. John said that he likes pizza.
+
+2. I want to go to California.
+
+3. I saw a deer that was grazing in the park. 
+
+---
+
+# Coming up 
+
+### Reading 
+
+- Carnie Ch3 for October 1, if you haven't yet!
+
+### Homework 
+
+- HW3 due **October 5**
+
