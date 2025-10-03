@@ -36,7 +36,7 @@ class: middle, center
 
 TP → NP (T) VP
 
-NP → (D) (AdjP+) N (PP+)
+NP → (D) (AdjP+) NP (PP+)
 
 NP → N
 
@@ -58,7 +58,7 @@ class: middle, center
 
 # Phrases practice
 
-Draw mini-trees for the phrases in red in the following sentences.
+Draw mini-trees for the phrases in red in the following **phrases**.
 
 --
 
@@ -129,4 +129,8 @@ Identify the dependent clause and complementizer (if any) in each of these sente
 ### Homework 
 
 - HW3 due **October 5**
+
+### Midterm
+
+- Will be in recitation next week: **October 10**
 

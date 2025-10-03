@@ -36,7 +36,7 @@ class: middle, center
 
 TP → NP (T) VP
 
-NP → (D) (AdjP+) N (PP+)
+NP → (D) (AdjP+) NP (PP+)
 
 NP → N
 
@@ -58,7 +58,7 @@ class: middle, center
 
 # Phrases practice
 
-Draw mini-trees for the phrases in red in the following sentences.
+Draw mini-trees for the phrases in red in the following **phrases**.
 
 --
 
