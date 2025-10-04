@@ -36,9 +36,7 @@ class: middle, center
 
 TP → NP (T) VP
 
-NP → (D) (AdjP+) NP (PP+)
-
-NP → N
+NP → (D) (AdjP+) N (PP+)
 
 PP → P NP
 
@@ -80,6 +78,52 @@ Draw mini-trees for the phrases in red in the following **phrases**.
 
 ---
 
+# Answers discussed for phrases
+
+.pull-left[
+```{r, out.width="50%", out.height="50%", echo=FALSE}
+knitr::include_graphics("./images/an_apple.png")
+```
+
+```{r, out.width="50%", out.height="50%", echo=FALSE}
+knitr::include_graphics("./images/into_the_building.png")
+```
+]
+
+.pull-right[
+```{r, out.width="50%", out.height="50%", echo=FALSE}
+knitr::include_graphics("./images/peas_in_a_pod.png")
+```
+
+```{r, out.width="50%", out.height="50%", echo=FALSE}
+knitr::include_graphics("./images/really_slowly.png")
+```
+]
+
+---
+# Answers discussed for phrases 
+
+.pull-left[
+```{r, out.width="50%", out.height="50%", echo=FALSE}
+knitr::include_graphics("./images/the_bright_sun.png")
+```
+
+```{r, out.width="100%", out.height="100%", echo=FALSE}
+knitr::include_graphics("./images/the_dog_with_the_collar_in_the_park.png")
+```
+]
+
+.pull-right[
+```{r, out.width="100%", out.height="100%", echo=FALSE}
+knitr::include_graphics("./images/the_man_in_the_car_with_the_flat_tire.png")
+```
+
+```{r, out.width="75%", out.height="75%", echo=FALSE}
+knitr::include_graphics("./images/wonderfully_fresh_bread.png")
+```
+]
+---
+
 class: middle, center
 
 # Practice: sentences
@@ -105,6 +149,24 @@ Draw trees for the following sentences.
 6. The duck quickly led her ducklings across the street.
 
 ---
+# Answers discussed for sentences
+
+.pull-left[
+```{r, out.width="100%", out.height="100%", echo=FALSE}
+knitr::include_graphics("./images/the_mockingbird_was_singing.png")
+```
+]
+
+
+.pull-right[
+```{r, out.width="100%", out.height="100%", echo=FALSE}
+knitr::include_graphics("./images/the_robin_caught_a_worm.png")
+```
+]
+
+---
+
+
 
 # Practice: complex sentences (if time!)
 

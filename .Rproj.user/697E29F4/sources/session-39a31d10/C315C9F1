@@ -1,26 +1,26 @@
 {
-    "id": "3E6A5AD9",
-    "path": "C:/Users/court/OneDrive/Desktop/Ling201_Week5/index.Rmd",
-    "project_path": "index.Rmd",
+    "id": "C315C9F1",
+    "path": "C:/Users/court/OneDrive/Desktop/Ling201_Week3/index.Rmd",
+    "project_path": null,
     "type": "r_markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1759287589101.0,
-    "source_on_save": true,
+    "created": 1759608008726.0,
+    "source_on_save": false,
     "relative_order": 2,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "121,42",
-        "scrollLine": "111"
+        "cursorPosition": "166,3",
+        "scrollLine": "159"
     },
     "folds": "",
-    "lastKnownWriteTime": 1759608651,
+    "lastKnownWriteTime": 1758303011,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1759608651961,
+    "last_content_update": 1758303011,
     "read_only": false,
     "read_only_alternatives": []
 }
